@@ -38,6 +38,6 @@ test_labels = to_categorical(test_labels)
 # TRAIN!!!
 neural_net.fit(train_images, train_labels, epochs=10, batch_size=128)
 
-# Evaluatre
+# Evaluate
 loss, accuracy = neural_net.evaluate(test_images, test_labels)
 print(f'loss: {loss}\taccuracy: {accuracy}')
