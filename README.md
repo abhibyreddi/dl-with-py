@@ -1,1 +1,1 @@
-# dl-with-py
+This repository serves as a personal log and implementation record for the concepts covered in the [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition) book.
